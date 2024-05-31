@@ -1,4 +1,4 @@
-- Hi, I’m @Sans-coding-skeleton
+- Hi, I’m @Sans-coding-the-skeleton
 - I’m interested in coding in java
 
 <!---
